@@ -19,6 +19,13 @@ Settings > Branches > Default Brances で変更
 
 
 
+### pull request
+forkするのは権限がないrepositoryへのpull requestをする場合なのかな？  
+権限があれば直接マージが可能  
+
+
+
+
 ---
 ## Markdown　メモ
 
